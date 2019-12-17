@@ -9,7 +9,7 @@
 
 # Demo
 
-[![](https://asciinema.org/a/7NoX0HbVaartBLbaQo9W5zqmY.png)(https://asciinema.org/a/7NoX0HbVaartBLbaQo9W5zqmY)]
+[![](https://asciinema.org/a/7NoX0HbVaartBLbaQo9W5zqmY.png)](https://asciinema.org/a/7NoX0HbVaartBLbaQo9W5zqmY)
 
 # How To Install ?
 
